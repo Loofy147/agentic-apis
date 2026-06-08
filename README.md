@@ -1,6 +1,6 @@
 # Agentic APIs
 
-Welcome to the **Agentic API Portal**. This repository is a "fast-forward" collection of over 1,000 APIs, curated and structured specifically for **Agentic Systems**.
+Welcome to the **Agentic API Portal**. This repository is a "fast-forward" collection of over 12,000 APIs, curated and structured specifically for **Agentic Systems**.
 
 Instead of just a list for humans, this repository provides a structured directory and machine-readable data designed to be ingested by AI agents to expand their toolkits and capabilities.
 
@@ -54,3 +54,10 @@ Advanced tools for orchestration and intent broadcasting.
 |:---|:---|
 | [Intent Broadcaster](scripts/intent_broadcaster.py) | Continuous flow of synthesized API intents. |
 | [Agentic Orchestrator](scripts/agentic_orchestrator.py) | Advanced state management with N-to-M mappings and task rescheduling. |
+
+## 🌌 Mega-List Integration
+This portal is dynamically synchronized with the [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list), expanding the agentic toolkit with 10,000+ specialized endpoints across 18 major categories.
+
+| Integration Script | Action |
+|:---|:---|
+| [Mega Fetcher](scripts/mega_fetcher.py) | Recursive discovery and synchronization of the Mega-List ecosystem. |
