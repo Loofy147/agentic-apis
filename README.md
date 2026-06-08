@@ -46,3 +46,11 @@ Standardized tool access for agents using the [Model Context Protocol](https://m
 
 ---
 *Aggregated and de-duplicated from public-apis/public-apis, n0shake/Public-APIs, and marcelscruz/public-apis.*
+
+## 🛠️ Agentic Scripts
+Advanced tools for orchestration and intent broadcasting.
+
+| Script | Purpose |
+|:---|:---|
+| [Intent Broadcaster](scripts/intent_broadcaster.py) | Continuous flow of synthesized API intents. |
+| [Agentic Orchestrator](scripts/agentic_orchestrator.py) | Advanced state management with N-to-M mappings and task rescheduling. |
